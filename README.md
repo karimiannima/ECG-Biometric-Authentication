@@ -101,3 +101,15 @@ If there are any parameters you want to change it will be done in the `authentic
 
 * Number of Users
     * Integer value (max for using ecg_id is 90)
+
+* Citation
+  @ARTICLE{9123339,
+  author={Ingale, Mohit and Cordeiro, Renato and Thentu, Siddartha and Park, Younghee and Karimian, Nima},
+  journal={IEEE Access}, 
+  title={ECG Biometric Authentication: A Comparative Analysis}, 
+  year={2020},
+  volume={8},
+  number={},
+  pages={117853-117866},
+  keywords={Electrocardiography;Biometrics (access control);Feature extraction;Authentication;Databases;Biomedical monitoring;ECG biometric;authentication;segment;off-the-person;on-the-person;Kalman filter;feature extraction;ECG datasets},
+  doi={10.1109/ACCESS.2020.3004464}}
